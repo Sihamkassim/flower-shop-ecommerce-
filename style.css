@@ -67,7 +67,9 @@ a {
 #search {
     width: 400px;
     height: 30px;
-    border: none;
+    Border:5px 5px solid pink;
+    border-radius: 8px;
+
 }
 
 .footer {
